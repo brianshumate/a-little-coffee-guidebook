@@ -113,18 +113,21 @@ serious coffee water preparation.
 There are some kettles which have proven to be very useful for brewing coffee
 with presses and the pour over method, which you are encouraged to explore:
 
-1. [Hario VKB-120HSV V60 Coffee Drip Kettle Buono]()
-2. [Bonavita BV3825ST 1-Liter Stovetop Kettle]()
+1. [Hario V60 Coffee Drip Kettle "Buono"](http://www.hario.jp/product/list.php?middelclass=3)
+2. [Bonavita 1 Liter Stovetop Gooseneck Kettle](http://bonavitaworld.com/products/10l-stovetop-gooseneck-kettle)
+3. [Bonavita 1 Liter Digital Variable Temperature Gooseneck Kettle](http://bonavitaworld.com/products/10l-digital-variable-temperature-gooseneck-kettle)
 
 ### Presses
 
 1. [Bodum Chambord 8 cup French Press](http://bodum.bodum.com/us/en-us/shop/detail/11053-16/) The classic chrome Bodum is a great
    classic French Press model that brews a fine cup of coffee.
-2. [Aeropress](http://aerobie.com/products/aeropress.htm)
+2. [Grosche Madrid 1 Liter French Press](http://www.grosche.ca/product/french-presses/madrid/)
+3. [Aeropress](http://aerobie.com/products/aeropress.htm)
 
 ### Filters
 
 1. [The Kaffeologie S Filter](http://www.kaffeologie.com/shop/s-filter-for-aeropress-coffee-makers)
+
 ### Cups
 
 Needless to say, you should not be drinking fine coffee from a plastic or
@@ -141,6 +144,7 @@ I usually drink my coffee from a [Snow Peak 450](http://www.snowpeak.com/tablewa
 It's an expensive imported mug, but very well worth it and particularly so for enjoying coffee in the great outdoors while camping or while out on the water.
 
 I will also sometimes drink from typical stoneware mugs as well.
+
 ### Scales and Thermometers
 
 1. [ThermoWorks Thermapen Thermometer](http://www.thermoworks.com/products/thermapen/)
