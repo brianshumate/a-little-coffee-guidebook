@@ -1,24 +1,29 @@
 # Raw Materials
 
+Life is too short for crappy coffee.
+
 The coffee beans and water that you use to create great cups of coffee
-must be the highest quality possible.
+must be the highest quality that you can possibly obtain.
 
-You should strive to get beans from a trusted source that offers the best
-available *single origin* beans.
+You should strive to get coffee beans from a trusted source that offers the
+best available *single origin* beans. Ideally, those beans could be organic,
+and also sustainably harvested and traded under the values established by
+the [Fair Trade USA](http://fairtradeusa.org/about-fair-trade-usa/mission)
+organization whenever possible.
 
-If you want the taste of your
-coffee to represent one pure variety, make sure that the beans you use are all sourced from
-one origin. Many off-the-shelf beans sold by chain coffee stores and supermarkets
-consist of mixed beans from various sources.
+If you want the taste of your coffee to represent one pure strain or variety,
+make sure that the beans you use are all sourced from one location or
+grower. Many off-the-shelf beans sold by chain coffee stores and supermarkets
+consist of mixed beans from various sources throughout the world.
 
 When in doubt, ask.
 
 ## Roasted Coffee Beans
 
 There are numerous sources of mediocre and downright awful roasted coffee
-beans, but we don't want to use those whenever possible. Some of the better
-roasters ship their beans around the globe. Here are some recommendations
-in alphabetical order:
+beans, but we don't want to use those beans if we can avoid doing so.
+Some of the better roasters ship their beans around the globe.
+Here are some recommendations in alphabetical order:
 
 1. [Blue Bottle Coffee](http://www.bluebottlecoffee.com/) has a fantastic
 selection of roasts in their online store as well.
@@ -28,7 +33,8 @@ selection of roasts in their online store as well.
 
 *What do you do?*
 
-Right now I'm using both locally roasted beens, and completely satisfied with occasional beans from Ritual Roasters.
+Right now I'm using both locally roasted beens, and completely satisfied with
+beans from Ritual Roasters Coffee Club as well.
 
 ## Green Coffee Beans
 
