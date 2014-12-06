@@ -11,4 +11,3 @@
    * [Aeropress](brewing_techniques/aeropress.md)
    * [French Press](brewing_techniques/french_press.md)
    * [Pour Over](brewing_techniques/pour_over.md)
-

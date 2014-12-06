@@ -18,4 +18,5 @@ latest version will always be at
 Thank you for taking the time to read this. If it helps
 you at some point, then I encourage you to buy or make
 me some coffee should the opportunity ever present itself.
+
 The only time I would likely turn down such an offer is when I am asleep.

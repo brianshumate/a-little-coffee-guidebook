@@ -48,3 +48,11 @@ green coffee beans out there:
 Eventually updates to this guide will include a section on roasting your own
 beans after I've had a chance to get my own gear and run through some of the
 various do-it-yourself roasting processes.
+
+## Water
+
+The other half of a magic cup of coffee is good clean water. Make sure that
+you're using the purest water you can within reason and that it doesn't come
+from any type of vessel that can impart additional flavors.
+
+You can't go wrong with good clean glass.

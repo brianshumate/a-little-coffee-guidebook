@@ -49,7 +49,10 @@ The small, hand operated grinders are portable and good for the great outdoors, 
 Beans ground and ready for a nice soak in hot water
 </small>
 
-Invert the Aeropress so that it rests on the top of the pluger with the open body exposed and carefully add the coffee grounds to the the inverted Aeropress. Do not allow ground coffee to settle into the locking groove of the top.
+Invert the Aeropress so that it rests on the top of the plunger with the open
+body exposed and carefully add the coffee grounds to the the inverted
+Aeropress. Do not allow ground coffee to settle into the locking groove of
+the top.
 
 ![](../_assets/water-temp.jpg)
 
@@ -57,8 +60,10 @@ Invert the Aeropress so that it rests on the top of the pluger with the open bod
 Water being heated to 175°F in a kettle
 </small>
 
-Prepare roughly 200 grams of water using tips from the **Water Temperature** section to your preferred temperature, and then
-   pour about 30 grams into the press initially to soak the grounds so that the coffee can bloom, expand, and release some carbon dioxide.
+Prepare roughly 200 grams of water using tips from the **Water Temperature**
+section to your preferred temperature, and then pour about 30 grams into the
+press initially to soak the grounds so that the coffee can bloom, expand, and
+release some carbon dioxide.
 
 ![](../_assets/aeropress-wet-grounds.jpg)
 
@@ -66,9 +71,12 @@ Prepare roughly 200 grams of water using tips from the **Water Temperature** sec
 Blooming then steeping is the fun part filled with anticipation
 </small>
 
-After about 30 seconds of bloom, add the remainder of water until the press is almost full, leaving approximately 1/4 inch of space at the top of the press.
+After about 30 seconds of bloom, add the remainder of water until the press
+is almost full, leaving approximately 1/4 inch of space at the top of
+the press.
 
-Stir the coffee mixture thoroughly using the Aeropress paddle or a bamboo paddle if preferred for at least 10 seconds.
+Stir the coffee mixture thoroughly using the Aeropress paddle or a bamboo
+paddle if preferred for at least 10 seconds.
 
 Allow the coffee mixture to steep for approximately 1 minute.
 
@@ -78,9 +86,12 @@ Allow the coffee mixture to steep for approximately 1 minute.
 Aeropress with cap and stainless steel mesh filter
 </small>
 
-Add a filter (either paper or stainless steel) to the Aeropress lid. Then, **carefully** attach and turn the lid onto the inverted press, ensuring that it is locked into place.
+Add a filter (either paper or stainless steel) to the Aeropress lid. Then,
+**carefully** attach and turn the lid onto the inverted press, ensuring that
+it is locked into place.
 
-**Cautiously** and deftly invert the press so that it is right-side-up over the vessel you intend to press the coffee into (I use my coffee cup).
+**Cautiously** and deftly invert the press so that it is right-side-up over
+the vessel you intend to press the coffee into (I use my coffee cup).
 
 ![](../_assets/aeropressing-coffee.jpg)
 
@@ -88,7 +99,9 @@ Add a filter (either paper or stainless steel) to the Aeropress lid. Then, **car
 Pressing the coffee
 </small>
 
-Over the course of approximately 20 seconds, slowly and gently press the plunger down on the Aeropress until you're squeezing against the coffee grounds.
+Over the course of approximately 20 seconds, slowly and gently press the
+plunger down on the Aeropress until you're squeezing against the coffee
+grounds.
 
 Top off the cup with remaining hot water, stir the coffee, and introduce your additives (if that's your thing).
 

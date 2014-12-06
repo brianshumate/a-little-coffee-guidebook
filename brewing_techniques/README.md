@@ -37,8 +37,8 @@ Do not use water over 200 degrees or water that is boiling outright.
 Now we arrive at the fun part: **MAKING THE COFFEE**!
 
 There are probably a dozen or more common ways to brew coffee. Many of
-those ways, such as the French Press, Moka Pot or Aeropress involve their own
-specialized equipment.
+those ways, such as the French Press, Moka Pot, Aeropress, or Vietnamese
+coffee involve their own specialized equipment.
 
 The following sections cover methods which I prefer to use for brewing coffee.
 Since I'm not limiting myself to the techniques covered here, this part of
