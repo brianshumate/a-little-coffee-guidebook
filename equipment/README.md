@@ -48,6 +48,14 @@ perfecting your brew.
 
 ### Grinders
 
+![](../_assets/porlex-jp30.jpg)
+
+<small>
+  The Porlex JP-30 is compact, efficient, and uses no electricity
+</small>
+
+
+
 Grinding coffee beans seems a simple enough concept, but you should be aware
 that certain types of grinders are preferred. There are a couple popular
 styles of grinder for coffee beans, *blade based* and *burr based* grinders.

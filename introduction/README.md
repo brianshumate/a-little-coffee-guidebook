@@ -24,10 +24,9 @@ millions of tons sold each year. It is a choice drink for waking up, a
 pick-me-up, and keep-me-up.
 
 Coffee is a beverage of dreams and art and conversation; it's a nerd's
-delight for being up and hacking all night, and the night watchman's best
-friend.
+delight for being up and hacking all night, and the early morning angler
+or night watchman's best friend.
 
-This little guide is a personal collection of ideas and methods around my
+This little guide is a personal journal collecting ideas and methods around my
 own coffee centered routines. I am sharing them here in the hope that they
-help you to enjoy a great cup of coffee too.
-
+help you to enjoy a fine cup of coffee too.
