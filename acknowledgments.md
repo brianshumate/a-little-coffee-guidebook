@@ -20,8 +20,8 @@ The original ASCII art from **A Little Coffee Guidebook**
 GitHub project README file content.
 </small>
 
-I'd like to thank the following people for inspiration,
-assistance, and some of the photography used in this guide:
+I'd like to thank the following people for inspiration and assistance
+in motivating me to create this work:
 
 * **Danika Shumate** for constant inspiration
 * **Brent Woodruff** for encouragement to write this guidebook
