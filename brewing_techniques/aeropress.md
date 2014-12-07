@@ -1,5 +1,11 @@
 # Aeropress
 
+![](../_assets/aeropress.jpg)
+
+<small>
+An inverted Aeropress
+</small>
+
 The [Areopress](https://en.wikipedia.org/wiki/AeroPress) is a like a giant caffeine syringe for brewing a
 surprisingly good cup of coffee. It was invented by Alan Adler who also
 invented the Aerobie flying disc.
@@ -16,12 +22,6 @@ coffee mixture to steep more effectively.
 While the directions that are packaged with the Aeropress describe how to
 brew with the device, I'm going to cover the steps I use for the inverted
 method here in seventeen easy but tedious steps.
-
-![](../_assets/aeropress.jpg)
-
-<small>
-An inverted Aeropress
-</small>
 
 Ensure that all components of the press are as clean as possible. Assemble the Aeropress body and plunger; for one cup of coffee, a good stop for the plunger is at the line marked **3**.
 
