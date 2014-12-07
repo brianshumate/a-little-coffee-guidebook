@@ -21,8 +21,8 @@ and is a matter of personal preference and fine tuning process. A good
 starting point for pour overs and pressing is approximately 32-37 grams of
 beans to 500 grams (or so) of water.
 
-Another way to put this, is to aim for something like a 1:14 ratio of ground
-coffee to water.
+Another way to put this, is to aim for something like a 1:10 to 1:14 ratio of
+ground coffee to water.
 
 ## Water Temperature
 
