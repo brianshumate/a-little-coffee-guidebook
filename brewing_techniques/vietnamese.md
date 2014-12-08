@@ -10,7 +10,7 @@ Coffee in the Vietnamese style is extremely rich and flavorful. The
 traditional and popular brand of Vietnamese coffee is Trung Nguyên. This
 historical and sought after coffee is roasted in "butter oil" and contains
 traces of cocoa, making it an exceptionally unique flavor when also brewed on
-top of condensed milk as it the usual custom.
+top of condensed milk as is the usual custom.
 
 The following is my technique for brewing a reasonably strong shot of
 Vietnamese style coffee. As with any brewing technique, you should feel free
@@ -19,9 +19,9 @@ to explore and experiment while formulating a brew that fits your own taste.
 Start by heating water to your preferred temperature; Use approximately 100
 milliliters for one reasonably strong shot. If you'd like the shot to be
 stronger, you can use as little as 60 milliliters of water; see the
-**Water Temperature** section for tips. As with many techniques, you should
-heat more water than you'll need so that you can warm the vessel you will
-brew into.
+**Water Temperature** section for tips on the ideal coffee brewing temperature
+ranges. As with many techniques, you should heat more water than you'll need
+so that you can warm the vessel you will brew into with some of the hot water.
 
 ![](../_assets/vietnamese_condensed_milk.jpg)
 
