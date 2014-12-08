@@ -21,6 +21,7 @@ definitely planning to do so and will add information about my experiences
 to this section.
 
 ## Brewing Equipment
+
 ![](../_assets/pour-over-carafe-dripper.jpg)
 
 <small>
@@ -137,7 +138,7 @@ require for daily use.
 
 **What do you do?**
 
-![](https://raw.githubusercontent.com/brianshumate/coffee-images/master/snow-peak-450-cup.jpg)
+![](../_assets/snow-peak-450-cup.jpg)
 
 I usually drink my coffee from a [Snow Peak 450](http://www.snowpeak.com/tableware/cups-mugs/titanium-double-450-mug-mg-053.html) double walled titanium mug with matching lid.
 
