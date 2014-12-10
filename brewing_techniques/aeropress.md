@@ -21,7 +21,8 @@ coffee mixture to steep more effectively.
 
 While the directions that are packaged with the Aeropress describe how to
 brew with the device, I'm going to cover the steps I use for the inverted
-method here in seventeen easy but tedious steps.
+method here. Follow along carefully and feel free to change and improve my
+steps; you'll be doing it by habit in no time!
 
 Ensure that all components of the press are as clean as possible. Assemble the Aeropress body and plunger; for one cup of coffee, a good stop for the plunger is at the line marked **3**.
 
