@@ -94,7 +94,8 @@ Here are a few models to consider:
 I use the Porlex JP-30; I prefer the manual action for numerous reasons, such
 as using less electricity and doing things the old fashioned way. Getting
 used to grinding beans this way also means that I can use the same grinder
-in my kitchen and in a tent on a mountainside.
+in my kitchen and in a tent on a mountainside. Since it is all metal
+construction, it's more rugged than other similar grinders too.
 
 The only negative thing I can report about the JP-30 is that the detachable
 handle seems to be made of a soft steel alloy, and the hexagonal hole that
