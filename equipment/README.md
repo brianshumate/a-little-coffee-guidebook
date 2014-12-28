@@ -74,11 +74,12 @@ Here are a few models to consider:
 
 1. [Porlex JP-30](http://www.porlex.co.jp/lineup/coffee.html) is a brilliant
    little stainless steel and ceramic manual burr grinder from Japan. You can
-   get them from numerous online retailers for approximately $50. They also
-   make a mini version that is great for camping and traveling.
-2. [Hario MSCS-2TB](http://hario.jp/coffee/grinder.html) another wonderful ceramic manual grinder featuring a glass vessel instead of stainless steel
+   get them from numerous online retailers for approximately $50.
+2. [Porlex JP-30](http://www.porlex.co.jp/lineup/coffee.html) is a shorter
+   version of the JP-30 that is more ideally suited for travel.
+3. [Hario MSCS-2TB](http://hario.jp/coffee/grinder.html) another wonderful ceramic manual grinder featuring a glass vessel instead of stainless steel
    as found in the JP-30
-3. [Baratza Preciso Coffee Grinder 685](https://www.baratza.com/conical-burr-grinders/preciso-grinder/) very expensive, but professional and well built electric powered burr grinder.
+4. [Baratza Preciso Coffee Grinder 685](https://www.baratza.com/conical-burr-grinders/preciso-grinder/) very expensive, but professional and well built electric powered burr grinder.
    Can be had for about $300 — perhaps the only electric grinder you'll ever
    need
 
