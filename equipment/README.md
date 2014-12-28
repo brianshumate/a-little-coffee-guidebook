@@ -105,6 +105,9 @@ handle to climb, and eventually pop off during grinding.
 This could perhaps be improved by making the handle out of a more robust
 steel or perhaps even a titanium alloy.
 
+It is worth noting that the Porlex JP-30 or Porlex Mini will fit inside
+the plunger part of an Aeropress, making for a pretty compact travel setup.
+
 ### Kettles
 
 You should prepare your hot water in some kind of vessel that is optimized for
