@@ -6,7 +6,7 @@
 An inverted AeroPress
 </small>
 
-The [Areopress](https://en.wikipedia.org/wiki/AeroPress) is a like a giant caffeine syringe for brewing a
+The [AeroPress](https://en.wikipedia.org/wiki/AeroPress) is a like a giant caffeine syringe for brewing a
 surprisingly good cup of coffee. It was invented by Alan Adler who also
 invented the Aerobie flying disc.
 
