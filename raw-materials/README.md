@@ -13,8 +13,8 @@ organization whenever possible.
 
 If you want the taste of your coffee to represent one pure strain or variety,
 make sure that the beans you use are all sourced from one location or
-grower. Many off-the-shelf beans sold by chain coffee stores and supermarkets
-consist of mixed beans from various sources throughout the world.
+grower. A lot of off-the-shelf beans sold by chain coffee stores and
+supermarkets consist of mixed beans from multiple sources.
 
 When in doubt, ask.
 
@@ -33,8 +33,8 @@ selection of roasts in their online store as well.
 
 *What do you do?*
 
-Right now I'm using both locally roasted beens, and completely satisfied with
-beans from Ritual Roasters Coffee Club as well.
+Right now I'm using both locally roasted beens, and satisfied with beans from
+Ritual Roasters Coffee Club as well.
 
 ## Green Coffee Beans
 
@@ -47,7 +47,7 @@ green coffee beans out there:
 
 Eventually updates to this guide will include a section on roasting your own
 beans after I've had a chance to get my own gear and run through some of the
-various do-it-yourself roasting processes.
+do-it-yourself roasting processes.
 
 ## Water
 
