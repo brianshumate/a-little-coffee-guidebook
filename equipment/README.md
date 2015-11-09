@@ -89,13 +89,13 @@ Here are some models to consider:
 
 **What do you do?**
 
-I use the Porlex JP-30; I prefer the manual action for numerous reasons, such
+I use the Porlex JP-30; I prefer the manual action for many reasons, such
 as using less electricity and doing things the old fashioned way. Getting
 used to grinding beans this way also means that I can use the same grinder
-in my kitchen and in a tent on a mountainside. Since it is all metal
+in my kitchen and in a tent on a mountainside. Due to its all metal
 construction, it's more rugged than other similar grinders too.
 
-The only negative thing I can report about the JP-30 is that the detachable
+A couple negative things I can report about the JP-30 is that the detachable
 handle appears made of a soft steel alloy, and the hexagonal hole that
 mates with the grinding action can become worn and loose, which causes the
 handle to climb, and eventually pop off during grinding.
@@ -104,8 +104,15 @@ Perhaps making the handle out of a more robust steel or even a titanium alloy
 or using a Torx type pattern could address the rounding out of the
 hexagonal hole.
 
-It is worth noting that the Porlex JP-30 or Porlex Mini will fit inside
+Also, after time, the grinds container section becomes looser fitting, and
+if you're not carefully holding it, that section can slip off while grinding
+and spill your freshly ground beans. :(
+
+It's worth noting that the Porlex JP-30 or Porlex Mini will fit inside
 the plunger part of an AeroPress, making for a compact and neat travel setup.
+
+I am going to try using the Hario MSCS-2TB as my daily home grinder, and
+stick to using the Porlex for camping and travel since it is more compact.
 
 ### Kettles
 
