@@ -4,7 +4,7 @@ Ideas on brewing and enjoying coffee
 
 The most recent guide version:
 
-[coffee.brianshumate.com](http://coffee.brianshumate.com)
+[coffee.brianshumate.com](http://coffee.brianshumate.com/content/)
 
 Text © 2015 J. Brian Shumate
 
