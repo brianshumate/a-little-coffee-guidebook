@@ -56,17 +56,20 @@ perfecting your brew.
 </small>
 
 Grinding coffee beans seems a simple enough concept, but you should be aware
-that it is best to user certain types of grinders. There are a couple popular
+that it is best to use a particular type of grinder. There are a couple popular
 styles of grinder for coffee beans, *blade based* and *burr based* grinders.
 
 While blade based grinders are generally less expensive, they produce an
-uneven grind and the spinning blade friction can actually heat the beans enough to add negative flavor effects.
+uneven grind that is incompatible with preferred brewing methods and the spinning blade friction can actually heat the beans enough to add negative flavor effects while grinding.
 
 A burr based grinder produces a nice even grind, and is the preferred type of
-grinder to use for the most delicious coffee flavor.
+grinder to use for the most delicious coffee flavor. Not to mention, when you
+need to dial in the grind size for various methods, a burr grinder allows for
+this while a blade grinder does not.
 
 The electric models are fancy and can be expensive, while manual models are
-far less expensive, more compact, and useful anywhere.
+far less expensive, more compact, and useful anywhere even without access
+to electricity (great for camping!).
 
 Here are some models to consider:
 
@@ -79,6 +82,8 @@ Here are some models to consider:
 3. [Baratza Preciso Coffee Grinder 685](https://www.baratza.com/conical-burr-grinders/preciso-grinder/) expensive, but professional and well built electric powered burr grinder.
    Can be had for about $300 — perhaps the only electric grinder you'll ever
    need
+4. [Baratza Encore Coffee Grinder](https://www.baratza.com/grinder/encore/) is an entry level with the same great Baratza quality for under $150.
+5. [Capresso Infinity Conical Burr](http://www.capresso.com/coffee-grinders/conical-burr/infinity-conical-burr-grinder-stainless-steel-1.html) a quality electric conical burr grinder for under $100.
 
 <div class="alert alert-info">
   Note that burr based grinders need frequent cleaning to operate at their
@@ -108,8 +113,9 @@ Also, after time, the grinds container section becomes looser fitting, and
 if you're not carefully holding it, that section can slip off while grinding
 and spill your freshly ground beans. :(
 
-It's worth noting that the Porlex JP-30 or Porlex Mini will fit inside
-the plunger part of an AeroPress, making for a compact and neat travel setup.
+<div class="alert alert-info">
+  Protip: It's worth noting that the Porlex JP-30 or Porlex Mini will fit inside the plunger part of an AeroPress, making for a compact and neat travel setup.
+</div>
 
 I am going to try using the Hario MSCS-2TB as my daily home grinder, and
 stick to using the Porlex for camping and travel since it is more compact.
