@@ -77,13 +77,14 @@ Here are some models to consider:
    little stainless steel and ceramic manual burr grinder from Japan. You can
    get them from numerous online retailers for approximately $50. There is
 	 also a mini version that is even more compact.
-2. [Hario MSCS-2TB](http://hario.jp/coffee/grinder.html) another wonderful ceramic manual grinder featuring a glass vessel instead of stainless steel
+2. [Hario MSCS-2TB](https://www.hario.jp/seihin/productgroup.php?group=MSCS-2TB) another wonderful ceramic manual grinder featuring a glass vessel instead of stainless steel
    as found in the JP-30
 3. [Baratza Preciso Coffee Grinder 685](https://www.baratza.com/conical-burr-grinders/preciso-grinder/) expensive, but professional and well built electric powered burr grinder.
    Can be had for about $300 — perhaps the only electric grinder you'll ever
    need
 4. [Baratza Encore Coffee Grinder](https://www.baratza.com/grinder/encore/) is an entry level with the same great Baratza quality for under $150.
-5. [Capresso Infinity Conical Burr](http://www.capresso.com/coffee-grinders/conical-burr/infinity-conical-burr-grinder-stainless-steel-1.html) a quality electric conical burr grinder for under $100.
+5. [Baratza Sette 270](https://www.baratza.com/grinder/sette-270/) is a professional strength, quiet, and fast grinder.
+6. [Capresso Infinity Conical Burr](http://www.capresso.com/coffee-grinders/conical-burr/infinity-conical-burr-grinder-stainless-steel-1.html) a quality electric conical burr grinder for under $100.
 
 <div class="alert alert-info">
   Note that burr based grinders need frequent cleaning to operate at their
