@@ -1,6 +1,9 @@
-# Vietnamese Coffee
+---
+title: Vietnamese coffee
+description: How to brew a tasty cup of Vietnamese style coffee.
+---
 
-![](../_assets/vietnamese_gear.jpg)
+![](../../../assets/vietnamese_gear.jpg)
 
 <small>
   A phin is used to brew Vietnamese coffee
@@ -23,7 +26,7 @@ stronger, you can use as little as 60 milliliters of water; see the
 ranges. As with many techniques, you should heat more water than you'll need
 so that you can warm the vessel you will brew into with some of the hot water.
 
-![](../_assets/vietnamese_condensed_milk.jpg)
+![](../../../assets/vietnamese_condensed_milk.jpg)
 
 <small>
   Adding the condensed milk
@@ -33,7 +36,7 @@ Once your water has reached your desired temperature, use some of it to warm
 the cup you intend to brew into. Next, go ahead and add 2 teaspoons of
 condensed milk to the cup.
 
-![](../_assets/vietnamese_grounds.jpg)
+![](../../../assets/vietnamese_grounds.jpg)
 
 <small>
   Spoon in the coffee
@@ -43,7 +46,7 @@ Now prepare your phin atop the cup; spoon in 3 well rounded teaspoonfuls of
 coffee into the phin. Gently shake the phin to evenly distribute coffee
 throughout.
 
-![](../_assets/vietnamese_press.jpg)
+![](../../../assets/vietnamese_press.jpg)
 
 <small>
   Gently press the coffee
@@ -53,7 +56,7 @@ Use the tamper portion of the phin to gently press down on the coffee.
 Do not press too firmly however, as brewing will be negatively affected by
 coffee that is too tightly pressed.
 
-![](../_assets/vietnamese_pour.jpg)
+![](../../../assets/vietnamese_pour.jpg)
 
 <small>
   Initial water pouring
@@ -66,7 +69,7 @@ minutes.
 Remove the lid and carefully pour in the remainder of your desired
 amount of water.
 
-![](../_assets/vietnamese_steep.jpg)
+![](../../../assets/vietnamese_steep.jpg)
 
 <small>
   Allow coffee to brew
@@ -74,7 +77,7 @@ amount of water.
 
 Replace the phin lid and allow the coffee to brew for about 4 more minutes.
 
-![](../_assets/vietnamese_stir.jpg)
+![](../../../assets/vietnamese_stir.jpg)
 
 <small>
   Stir it up

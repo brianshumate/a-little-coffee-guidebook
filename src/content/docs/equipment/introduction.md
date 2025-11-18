@@ -1,4 +1,7 @@
-# Equipped for Enjoyment
+---
+title: Equipped for Enjoyment
+description: Some gear for enjoying coffee.
+---
 
 Selecting quality tools for coffee preparation goes a long way
 towards satisfaction in brewing and the end result. I recommend buying the
@@ -22,7 +25,7 @@ to this section.
 
 ## Brewing Equipment
 
-![](../_assets/pour-over-carafe-dripper.jpg)
+![](../../../assets/pour-over-carafe-dripper.jpg)
 
 <small>
   A Hario dripper and carafe for making pour over coffee
@@ -49,7 +52,7 @@ perfecting your brew.
 
 ### Grinders
 
-![](../_assets/porlex-jp30.jpg)
+![](../../../assets/porlex-jp30.jpg)
 
 <small>
   The Porlex JP-30 is compact, efficient, and uses no electricity
@@ -155,7 +158,7 @@ require for daily use.
 
 **What do you do?**
 
-![](../_assets/snow-peak-450-cup.jpg)
+![](../../../assets/snow-peak-450-cup.jpg)
 
 I usually drink my coffee from a [Snow Peak 450](http://www.snowpeak.com/tableware/cups-mugs/titanium-double-450-mug-mg-053.html) double walled titanium mug with matching lid.
 

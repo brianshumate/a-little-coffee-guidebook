@@ -1,5 +1,9 @@
-# Acknowledgments
+---
+title: Acknowledgments
+description: Thanks to those who inspired me to create this work.
+---
 
+```plaintext
         ))
        ((
      .-~~-.
@@ -14,9 +18,9 @@
 		 \___\___/|_| |_|  \___|\___|
 
 		Guidebook
-
+```
 <small>
-The original ASCII art from **A Little Coffee Guidebook**
+The original ASCII art from <strong>A Little Coffee Guidebook</strong>
 GitHub project README file content.
 </small>
 

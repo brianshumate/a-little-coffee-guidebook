@@ -1,4 +1,7 @@
-# Preface
+---
+title: Preface
+description: Why write a cofee book?
+---
 
 After repeated gentle nudging by my good friend
 [Brent Woodruff](http://www.brentwoodruff.com/),

@@ -1,6 +1,9 @@
-# AeroPress
+---
+title: AeroPress
+description: How to brew a delicious cup of coffee using the AeroPress.
+---
 
-![](../_assets/aeropress.jpg)
+![](../../../assets/aeropress.jpg)
 
 <small>
 An inverted AeroPress
@@ -24,9 +27,11 @@ brew with the device, I'm going to cover the steps I use for the inverted
 method here. Follow along carefully and feel free to change and improve my
 steps; you'll be doing it by habit in no time!
 
+## Prepare for brewing
+
 Ensure that all components of the press are as clean as possible. Assemble the AeroPress body and plunger; for one cup of coffee, a good stop for the plunger is at the line marked **3**.
 
-![](../_assets/weigh-beans.jpg)
+![](../../../assets/weigh-beans.jpg)
 
 <small>
 17 grams of beans ready to grind
@@ -34,7 +39,7 @@ Ensure that all components of the press are as clean as possible. Assemble the A
 
 Grind approximately 15-17 grams of beans; use a fine to medium grind that is not quite coarse as you'd expect for a drip coffee grind.
 
-![](../_assets/beans-into-grinder.jpg)
+![](../../../assets/beans-into-grinder.jpg)
 
 <small>
 Feeding beans into a Porlex JP-30 manual burr grinder
@@ -44,18 +49,20 @@ I like to use a nice manual burr based grinder with ceramic burrs. Really nice e
 
 The small, hand operated grinders are portable and good for the great outdoors, too.
 
-![](../_assets/aeropress-grounds.jpg)
+![](../../../assets/aeropress-grounds.jpg)
 
 <small>
 Beans ground and ready for a nice soak in hot water
 </small>
+
+## Brew
 
 Invert the AeroPress so that it rests on the top of the plunger with the open
 body exposed and carefully add the coffee grounds to the the inverted
 AeroPress. Do not allow ground coffee to settle into the locking groove of
 the top.
 
-![](../_assets/water-temp.jpg)
+![](../../../assets/water-temp.jpg)
 
 <small>
 Water being heated to 175°F in a kettle
@@ -66,7 +73,7 @@ section to your preferred temperature, and then pour about 30 grams into the
 press initially to soak the grounds so that the coffee can bloom, expand, and
 release some carbon dioxide.
 
-![](../_assets/aeropress-wet-grounds.jpg)
+![](../../../assets/aeropress-wet-grounds.jpg)
 
 <small>
 Blooming then steeping is the fun part filled with anticipation
@@ -81,7 +88,9 @@ paddle if preferred for at least 10 seconds.
 
 Allow the coffee mixture to steep for approximately 1 minute.
 
-![](../_assets/aeropress-filter-cap.jpg)
+![](../../../assets/aeropress-filter-cap.jpg)
+
+## Press the brew
 
 <small>
 AeroPress with cap and stainless steel mesh filter
@@ -94,7 +103,7 @@ it is locked into place.
 **Cautiously** and deftly invert the press so that it is right-side-up over
 the vessel you intend to press the coffee into (I use my coffee cup).
 
-![](../_assets/aeropressing-coffee.jpg)
+![](../../../assets/aeropressing-coffee.jpg)
 
 <small>
 Pressing the coffee
@@ -106,7 +115,7 @@ grounds.
 
 Top off the cup with remaining hot water, stir the coffee, and introduce your additives (if that's your thing).
 
-![](../_assets/brewed-cup.jpg)
+![](../../../assets/brewed-cup.jpg)
 
 <small>
 A fresh and delicious cup of coffee

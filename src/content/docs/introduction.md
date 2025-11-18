@@ -1,4 +1,7 @@
-# Introduction
+---
+title: Introduction
+description: Coffee from the beginning
+---
 
 > "Suave molecules of Mocha stir up your blood, without causing excess heat;
 > the organ of thought receives from it a feeling of sympathy; work becomes
@@ -30,3 +33,6 @@ or night watchman's best friend.
 This little guide is a personal journal collecting ideas and methods around my
 own coffee centered routines. I am sharing them here in the hope that they
 help you to enjoy a fine cup of coffee too.
+
+:::danger
+The water temperatures involved in making coffee can cause injuries. Please be aware of this, and careful whenever you are brewing coffee. The author assumes no responsibility for any actions by anyone which are based on this content.

@@ -1,4 +1,7 @@
-# Raw Materials
+---
+title: Raw materials
+description: The building blocks of great coffee.
+---
 
 Life is too short for crappy coffee.
 

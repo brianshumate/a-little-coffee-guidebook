@@ -1,4 +1,7 @@
-# Brewing Techniques
+---
+title: Brewing techniques
+description: How to use different techniques to brew coffee
+---
 
 > "I make a mean cup of coffee, if you give me the right ingredients."<br>
 ><br>
@@ -6,13 +9,9 @@
 
 ## Tips
 
-<div class="alert alert-info">
-  <ol>
-    <li>Coffee beans taste best within 2 weeks of roasting time</li>
-    <li>Always ensure your equipment is clean before brewing</li>
-    <li>Use the cleanest water possible (see **Raw Materials** section)</li>
-  </ol>
-</div>
+- Coffee beans taste best within 2 weeks of roasting time
+- Always ensure your equipment is clean before brewing
+- Use the cleanest water possible (see **Raw Materials** section)
 
 ## Coffee Amount and Grind
 

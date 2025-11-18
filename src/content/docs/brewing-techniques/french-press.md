@@ -1,6 +1,9 @@
-# French Press
+---
+title: French Press
+description: How to brew a delicious cup of coffee using the French Press.
+---
 
-![](../_assets/french_press.jpg)
+![](../../../assets/french_press.jpg)
 
 <small>
   The venerable French press in all its shiny glory
@@ -16,8 +19,6 @@ coffee.
 
 Follow these steps to brew nice coffee with your French Press.
 
-
-
 Ensure that all components of your French press are as clean as possible and
 boil enough water to provide a one-to-ten ratio of ground coffee beans to
 water.
@@ -25,7 +26,7 @@ water.
 For the example in this guidebook, a 34 ounce press is used which would call
 for approximately 80 grams of coffee beans and 800 milliliters of water.
 
-![](../_assets/french_press_grind.jpg)
+![](../../../assets/french_press_grind.jpg)
 
 <small>
   The lovely smell of freshly ground coffee beans
@@ -35,7 +36,7 @@ While your water boils, grind the required amount of coffee beans to the
 consistency of rough sea salt. Remove the top/plunger of your press and
 pour in the ground coffee beans.
 
-![](../_assets/french_press_pour.jpg)
+![](../../../assets/french_press_pour.jpg)
 
 <small>
   Pour water to cover the ground coffee
@@ -44,7 +45,7 @@ pour in the ground coffee beans.
 Once the water has reached a boiling temperature (or your preferred
 temperature), pour in enough water to cover the ground coffee.
 
-![](../_assets/french_press_stir.jpg)
+![](../../../assets/french_press_stir.jpg)
 
 <small>
   Stirring, stirring — ever so gently
@@ -59,7 +60,7 @@ After blooming has occurred, go ahead and pour in your remaining water in
 slow counter-clockwise circles. Ensure that at least an inch of free space
 between the water level and the top of your press glass exists.
 
-![](../_assets/french_press_press.jpg)
+![](../../../assets/french_press_press.jpg)
 
 <small>
   Slow and steady pressing
@@ -74,7 +75,7 @@ likely too finely ground.
 What ever you do, **do not press too firmly or quickly** as the hot mixture
 could be forced out in the process.
 
-![](../_assets/french_press_pour_cup.jpg)
+![](../../../assets/french_press_pour_cup.jpg)
 
 <small>
   Coffee time!
