@@ -1,5 +1,7 @@
 ![](_assets/cover.jpg)
 
+(Legacy version)
+
 Ideas on brewing and enjoying coffee
 
 The most recent guide version:
