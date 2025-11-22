@@ -15,7 +15,7 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/brianshumate/a-little-coffee-guidebook' }],
 			sidebar: [
   			{
-  				label: 'Acknowledgements', slug: 'acknowledgments'
+  				label: 'Acknowledgments', slug: 'acknowledgments'
   			},
         {
           label: 'Preface', slug: 'preface'
